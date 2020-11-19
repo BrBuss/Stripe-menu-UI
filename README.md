@@ -8,3 +8,17 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/BrBuss/Stripe-menu-UI
 ```
+### Installation
+
+```bash
+# Go into the repository from base directory
+$ cd nlw3-happy/web
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+```
