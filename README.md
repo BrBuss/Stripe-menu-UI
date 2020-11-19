@@ -12,7 +12,7 @@ $ git clone https://github.com/BrBuss/Stripe-menu-UI
 
 ```bash
 # Go into the repository from base directory
-$ cd nlw3-happy/web
+$ cd Stripe-menu-UI
 
 # Install dependencies
 $ yarn install
