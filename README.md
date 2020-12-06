@@ -6,7 +6,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/BrBuss/Stripe-menu-UI
+$ git clone https://github.com/brunobussReal/Stripe-menu-UI
 ```
 ### Installation
 
