@@ -7,31 +7,31 @@ export const Company = () => (
     <ul className="primary">
       <li>
         <span />
-        Sobre a stripe
+        About stripe
       </li>
       <li>
         <span />
-        Clientes
+        Customers
       </li>
       <li>
         <span />
-        Corporativo
+        Enterprise
       </li>
       <li>
         <span />
-        Parceiros
+        Partners
       </li>
       <li>
         <span />
-        Empregos
+        Jobs
       </li>
       <li>
         <span />
-        Meio ambiente
+        Environment
       </li>
       <li>
         <span />
-        Notícias
+        Newsroom
       </li>
     </ul>
     <ul className="secondary">

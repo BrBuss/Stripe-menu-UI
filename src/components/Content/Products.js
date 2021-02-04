@@ -10,7 +10,7 @@ export const Products = () => (
 
         <div>
           <h3>Payments</h3>
-          <p>Plataforma completa para pagamentos online</p>
+          <p>Online payments</p>
         </div>
       </li>
       <li>
@@ -18,7 +18,7 @@ export const Products = () => (
 
         <div>
           <h3>Billing</h3>
-          <p>Plataforma completa para pagamentos online</p>
+          <p>Subscriptions & invoicing</p>
         </div>
       </li>
       <li>
@@ -26,7 +26,7 @@ export const Products = () => (
 
         <div>
           <h3>Connect</h3>
-          <p>Plataforma completa para pagamentos online</p>
+          <p>Payments for platforms</p>
         </div>
       </li>
     </ul>
@@ -36,31 +36,31 @@ export const Products = () => (
         <span className="sigma" />
 
         <h3>Sigma</h3>
-        <p>Análises e relatórios comerciais avançados</p>
+        <p>Custom reports</p>
       </li>
       <li>
         <span className="atlas" />
 
         <h3>Atlas</h3>
-        <p>Registro de empresas para startups</p>
+        <p>Startup incorporation</p>
       </li>
       <li>
         <span className="radar" />
 
         <h3>Radar</h3>
-        <p>Prevenção de fraudes com machine learning</p>
+        <p>Fraud & risk management with machine learning</p>
       </li>
       <li>
         <span className="issuing" />
 
         <h3>Issuing</h3>
-        <p>Criação de cartões virtuais e físicos</p>
+        <p>Card creation</p>
       </li>
       <li>
         <span className="terminal" />
 
         <h3>Terminal</h3>
-        <p>Pagamentos pessoais programáveis</p>
+        <p>In-person payments</p>
       </li>
     </ul>
   </ProductsWrapper>

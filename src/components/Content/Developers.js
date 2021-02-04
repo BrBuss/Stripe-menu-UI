@@ -8,28 +8,30 @@ export const Developers = () => (
       <span className="documentation" />
 
       <div>
-        <h3>Documentação</h3>
-        <p>Comece a integrar os produtos e as ferramentas da Stripe</p>
+        <h3>Documentation</h3>
+        <p>Start integrating Stripe’s products and tools</p>
 
         <div>
           <ul>
             <li>
-              <h4>Comece já</h4>
+              <h4>Get started</h4>
             </li>
-            <li>Checkout pré-integrado</li>
-            <li>Bibliotecas e SDKs</li>
+            <li>Prebuilt checkout</li>
+
+            <li> Libraries and SDKs</li>
             <li>Plugins</li>
-            <li>Exemplos de código</li>
+            <li>Code samples</li>
           </ul>
 
           <ul>
             <li>
-              <h4>Guias</h4>
+              <h4>Gudes</h4>
             </li>
-            <li>Aceite pagamentos online</li>
-            <li>Gerencie assinaturas</li>
-            <li>Envie repasses</li>
-            <li>Implemente pagamentos presenciais</li>
+            <li>Accept online payments</li>
+
+            <li>Manage subscriptions</li>
+            <li>Send payments</li>
+            <li>Set up in-person payments</li>
           </ul>
         </div>
       </div>
@@ -38,15 +40,15 @@ export const Developers = () => (
     <ul className="secondary">
       <li>
         <span className="api-reference" />
-        Referência completa da API
+        Full API reference
       </li>
       <li>
         <span />
-        Status da API
+        API Status
       </li>
       <li>
         <span />
-        Código aberto
+        Open source
       </li>
     </ul>
   </DevelopersWrapper>

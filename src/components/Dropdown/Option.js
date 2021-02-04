@@ -12,7 +12,7 @@ export function DropdownOption({ name, content: Content, backgroundHeight }) {
 
   const [optionHook, optionDimensions] = useDimensions();
   const [registered, setRegistered] = useState(false);
-
+  console.log(optionHook);
   const {
     registerOption,
     updateOptionProps,

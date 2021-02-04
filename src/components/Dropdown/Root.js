@@ -18,7 +18,6 @@ export function DropdownRoot() {
 
   if (cachedOption) {
     const { optionCenterX, contentDimensions } = cachedOption;
-    console.log(cachedOption);
     width = contentDimensions?.width;
     height = contentDimensions?.height;
     x = optionCenterX - width / 2;
