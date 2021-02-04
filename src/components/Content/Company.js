@@ -37,7 +37,7 @@ export const Company = () => (
     <ul className="secondary">
       <li className="title">
         <span className="title-icon" />
-        Do blog
+        From the blog
       </li>
       <li>
         Payouts with no code required
