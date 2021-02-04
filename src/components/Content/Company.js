@@ -41,7 +41,7 @@ export const Company = () => (
       </li>
       <li>
         Payouts with no code required
-        <span className="new-tag">Novo</span>
+        <span className="new-tag">New</span>
         <span className="arrow">{">"}</span>
       </li>
       <li>
